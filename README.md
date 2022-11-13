@@ -1,2 +1,2 @@
-# Ticket
-sebagai tugas matkul alpro sem1
+# Projek Tugas saya selama berkuliah di Ars University
+
